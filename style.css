@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color : aquamarine;
+}
+button{
+    background-color: aqua;
+    font-size: 25px;
+    border: none;
+    cursor: pointer;
+    border-radius: 12px;
+}
+#mydiv{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
